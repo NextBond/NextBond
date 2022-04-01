@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 👋 Hi, I’m @NextBond
+- 👋 Hi, I’m Bajarang Karande @NextBond
 - 👀 I’m interested in ...Network & Security
 - 🌱 I’m Always Eagerness to inculcate new skills and learn about the latest technological aspects related to Network & Security.
 - 💞️ I’m looking to collaborate on ...
